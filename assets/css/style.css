@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#page-background {
+    align-content: center;
+    width: 100%;
+    z-index: -1;
+    position: fixed;
+}
+#intro-screen {
+    display: block;
+}
+
+ #quiz-box {
+    /*display: none; */
+    background-color: #f8f9fa;
+    padding: 20px;
+    
+}
+
+#results { 
+    display: none; 
+    position: absolute;
+    float: top;
+}  
+
+
+
